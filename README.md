@@ -28,9 +28,9 @@ The project consists of three Python notebook files:
 
 ## Contact Information:
 
-If you have any problems, questions, or suggestions, feel free to contact the author of this program, Gleb Mutasov, via one of the following methods:
+If you have any problems, questions, or suggestions, feel free to contact the author of this program, Gleb Mutasov or Lin Myint, via one of the following methods:
 
 - Email: glebayva@gmail.com
-- Email: 66016002@kmitl.ac.th
+- Email: linminmin.my@kmitl.ac.th
 
 To check the license, please read the `LICENSE` file.
