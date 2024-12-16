@@ -34,7 +34,7 @@ We collected GNSS data (RINEX3) from two stations (Bangkok and Nakhon Ratchasima
 
 ## DOI:
 
-10.5281/zenodo.14498864
+https://doi.org/10.5281/zenodo.14498864
 
 ## Contact Information:
 
