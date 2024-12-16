@@ -26,6 +26,12 @@ The project consists of three Python notebook files:
 2. `Clustering_with_Statistical_extractor.ipynb` - Clustering program with statistical feature extractor.
 3. `Clustering_with_PCA_extractor.ipynb` - Clustering program with PCA feature extractor.
 
+## Data:
+
+The data is located in the Keograms folder. Inside the folder there are data by year, 2021, 2022, 2023. Inside the folder for each year there is a folder with the day of the year (1-365). Thus, you can access pairs of ROTI keogram images (latitudinal and longitudinal).
+
+We collected GNSS data (RINEX3) from two stations (Bangkok and Nakhon Ratchasima) over three years of 2021, 2022, and 2023 and then generated pairs of latitudinal and longitudinal keogram images. From three years of image data, there are 425 days with ionospheric irregularity events. It is important to note that we exclude the days without EII since the keogram plots are just broken if ROTI is below 0.3. We save these image files as input data for training and testing. 
+
 ## Contact Information:
 
 If you have any problems, questions, or suggestions, feel free to contact the author of this program, Gleb Mutasov or Lin Myint, via one of the following methods:
